@@ -1,0 +1,128 @@
+body{
+    background-color:  #080F43;
+    font-family: 'Times New Roman', Times, serif;
+}
+#navbar{
+    background-color: #080F43;
+    margin-top: 0px;
+}
+#title{
+    font-family: Times New Roman;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 49px;
+    line-height: 56px;
+    
+    color: #FFFFFF;
+}
+.navlist{
+    text-decoration: none;
+    font-family: Times New Roman;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 36px;
+    margin-top: 10px;
+    color: #FFFFFF;
+}
+.navlist:hover{
+text-decoration: none;
+    font-family: Times New Roman;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 36px;
+    margin-top: 10px;
+    color: #ff0000;    
+}
+.active_sec{
+    font-family: Times New Roman;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 30px;
+    background: #FFFFFF;
+    border-radius: 0px 25px 25px 0px;
+    color: #C63E2C;
+    padding: 10px;
+}
+.d_bg{
+    background-color: white;
+    padding: 20px;
+    margin: auto;
+    border-radius: 50px;
+}
+.headd{
+    background: #080F43;
+    font-family: Times New Roman;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 46px;
+    padding: 10px;
+    color: #FFFFFF;
+}
+.ulst{
+    font-family: Times New Roman;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 33px;
+    text-decoration: none;
+    color: #080F43;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 50px;
+}
+.cutab{
+    width: 100%;
+    margin-top: 30px;
+    padding: 5px;
+    font-size: large;
+}
+.cutabtn{
+    font-family: Times New Roman;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 20px;
+    width: 25%;
+    background: #C63E2C;
+    border: 2px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 20px;  
+    color: #FFFFFF;
+    padding: 10px;
+    margin-top: 50px;
+}
+.vlst{
+    font-family: Times New Roman;
+    font-style: normal;
+    font-weight: bold;
+    font-size: large;
+    line-height: 25px;    
+    color: #1C3FAA;
+    padding: 10px;
+    margin: 0px;
+    border-radius: 50px;
+    text-decoration: none;
+}
+.classss{
+    color:  rgb(0, 0, 0);
+}
+.am_f{
+    width: 90%;
+    background: #ebf3f5;
+    border: 0.5px solid #0044ff;
+    box-sizing: border-box;
+    padding: 10px;
+    margin-top: 20px;
+}
+#am_f{
+    width: 50%;
+    background: #ebf3f5;
+    border: 0.5px solid #0044ff;
+    box-sizing: border-box;
+    padding: 10px;
+    margin-top: 20px;
+}
